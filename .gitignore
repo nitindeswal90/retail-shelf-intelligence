@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.venv/
+env/
+outputs/
+data/outputs/
+data/results/
+data/crops/
+*.pt
+*.onnx
+.DS_Store
+.vscode/
+.idea/
