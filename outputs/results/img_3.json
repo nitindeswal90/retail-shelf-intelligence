@@ -1,0 +1,1103 @@
+{
+  "image_name": "img_3.jpg",
+  "total_products": 63,
+  "brands": {
+    "Actimel": 3,
+    "Activia": 4,
+    "Amul": 28,
+    "Epigamia": 3,
+    "Milky Mist": 3,
+    "Mother Dairy": 2,
+    "Nestea": 2,
+    "Nestle": 1,
+    "Other": 14,
+    "Yakult": 3
+  },
+  "shelf_space_percent": {
+    "Actimel": 3.6,
+    "Activia": 3.6,
+    "Amul": 48.6,
+    "Epigamia": 5.0,
+    "Milky Mist": 4.8,
+    "Mother Dairy": 5.0,
+    "Nestea": 3.8,
+    "Nestle": 2.0,
+    "Other": 19.8,
+    "Yakult": 3.8
+  },
+  "ocr_labels": [
+    "\u20b928",
+    "\u20b920",
+    "\u20b925",
+    "\u20b930",
+    "\u20b962",
+    "\u20b954",
+    "\u20b945",
+    "\u20b935",
+    "\u20b940",
+    "\u20b958",
+    "\u20b952",
+    "\u20b960",
+    "\u20b955",
+    "\u20b9120",
+    "\u20b985",
+    "\u20b9130",
+    "\u20b970",
+    "\u20b9140"
+  ],
+  "detections": [
+    {
+      "final_label": "Nestle",
+      "bbox": [
+        1282,
+        17,
+        1388,
+        211
+      ],
+      "ocr_text": [
+        "Nebtle",
+        "0tt",
+        "DAHI",
+        "Ai",
+        "at"
+      ],
+      "linked_price": "\u20b920",
+      "area": 20564,
+      "area_source": "bbox"
+    },
+    {
+      "final_label": "Nestea",
+      "bbox": [
+        1181,
+        18,
+        1283,
+        211
+      ],
+      "ocr_text": [
+        "Nestle",
+        "Ct;",
+        "DAHI",
+        "Nyti"
+      ],
+      "linked_price": "\u20b920",
+      "area": 19686,
+      "area_source": "bbox"
+    },
+    {
+      "final_label": "Nestea",
+      "bbox": [
+        1081,
+        19,
+        1185,
+        210
+      ],
+      "ocr_text": [
+        "Nesite",
+        "#",
+        "DAHI",
+        "Cincct"
+      ],
+      "linked_price": "\u20b920",
+      "area": 19864,
+      "area_source": "bbox"
+    },
+    {
+      "final_label": "Other",
+      "bbox": [
+        9,
+        31,
+        119,
+        98
+      ],
+      "ocr_text": [
+        "Kids",
+        "1+"
+      ],
+      "linked_price": "\u20b925",
+      "area": 7370,
+      "area_source": "bbox"
+    },
+    {
+      "final_label": "Other",
+      "bbox": [
+        441,
+        31,
+        513,
+        215
+      ],
+      "ocr_text": [
+        "Danoty",
+        "]",
+        "Ort"
+      ],
+      "linked_price": "\u20b930",
+      "area": 13248,
+      "area_source": "bbox"
+    },
+    {
+      "final_label": "Other",
+      "bbox": [
+        513,
+        31,
+        585,
+        215
+      ],
+      "ocr_text": [
+        "Dantae",
+        "1",
+        "crignal"
+      ],
+      "linked_price": "\u20b925",
+      "area": 13248,
+      "area_source": "bbox"
+    },
+    {
+      "final_label": "Other",
+      "bbox": [
+        584,
+        31,
+        655,
+        212
+      ],
+      "ocr_text": [
+        "Dnln",
+        "]",
+        "mued"
+      ],
+      "linked_price": "\u20b925",
+      "area": 12851,
+      "area_source": "bbox"
+    },
+    {
+      "final_label": "Activia",
+      "bbox": [
+        224,
+        32,
+        323,
+        129
+      ],
+      "ocr_text": [
+        "ACTIVIA"
+      ],
+      "linked_price": "\u20b930",
+      "area": 9603,
+      "area_source": "bbox"
+    },
+    {
+      "final_label": "Actimel",
+      "bbox": [
+        654,
+        32,
+        724,
+        211
+      ],
+      "ocr_text": [
+        "Mattte",
+        "Hmv",
+        "Actimel"
+      ],
+      "linked_price": "\u20b925",
+      "area": 12530,
+      "area_source": "bbox"
+    },
+    {
+      "final_label": "Actimel",
+      "bbox": [
+        724,
+        32,
+        793,
+        213
+      ],
+      "ocr_text": [
+        "Runtt",
+        "Dloty",
+        "Actimel",
+        "otdhui"
+      ],
+      "linked_price": "\u20b925",
+      "area": 12489,
+      "area_source": "bbox"
+    },
+    {
+      "final_label": "Actimel",
+      "bbox": [
+        793,
+        32,
+        863,
+        214
+      ],
+      "ocr_text": [
+        "Mtdade",
+        "p",
+        "Actimel",
+        "Henaai"
+      ],
+      "linked_price": "\u20b928",
+      "area": 12740,
+      "area_source": "bbox"
+    },
+    {
+      "final_label": "Other",
+      "bbox": [
+        111,
+        33,
+        231,
+        102
+      ],
+      "ocr_text": [
+        "0t"
+      ],
+      "linked_price": "\u20b925",
+      "area": 8280,
+      "area_source": "bbox"
+    },
+    {
+      "final_label": "Activia",
+      "bbox": [
+        326,
+        33,
+        426,
+        130
+      ],
+      "ocr_text": [
+        "ACTIVIA"
+      ],
+      "linked_price": "\u20b930",
+      "area": 9700,
+      "area_source": "bbox"
+    },
+    {
+      "final_label": "Yakult",
+      "bbox": [
+        861,
+        46,
+        940,
+        216
+      ],
+      "ocr_text": [
+        "Vacute",
+        "Yakuld)"
+      ],
+      "linked_price": "\u20b928",
+      "area": 13430,
+      "area_source": "bbox"
+    },
+    {
+      "final_label": "Yakult",
+      "bbox": [
+        1013,
+        46,
+        1090,
+        214
+      ],
+      "ocr_text": [
+        "Hacmc",
+        "Yakulo"
+      ],
+      "linked_price": "\u20b928",
+      "area": 12936,
+      "area_source": "bbox"
+    },
+    {
+      "final_label": "Yakult",
+      "bbox": [
+        937,
+        47,
+        1014,
+        214
+      ],
+      "ocr_text": [
+        "Fube",
+        "Yakulb",
+        "Maut"
+      ],
+      "linked_price": "\u20b928",
+      "area": 12859,
+      "area_source": "bbox"
+    },
+    {
+      "final_label": "Other",
+      "bbox": [
+        9,
+        90,
+        123,
+        157
+      ],
+      "ocr_text": [
+        "Hadtc",
+        "at"
+      ],
+      "linked_price": "\u20b925",
+      "area": 7638,
+      "area_source": "bbox"
+    },
+    {
+      "final_label": "Activia",
+      "bbox": [
+        225,
+        126,
+        327,
+        216
+      ],
+      "ocr_text": [
+        "AcTivIA"
+      ],
+      "linked_price": "\u20b930",
+      "area": 9180,
+      "area_source": "bbox"
+    },
+    {
+      "final_label": "Activia",
+      "bbox": [
+        330,
+        127,
+        430,
+        215
+      ],
+      "ocr_text": [
+        "ACTIVIA"
+      ],
+      "linked_price": "\u20b930",
+      "area": 8800,
+      "area_source": "bbox"
+    },
+    {
+      "final_label": "Other",
+      "bbox": [
+        11,
+        154,
+        123,
+        214
+      ],
+      "ocr_text": [],
+      "linked_price": "\u20b925",
+      "area": 6720,
+      "area_source": "bbox"
+    },
+    {
+      "final_label": "Mother Dairy",
+      "bbox": [
+        354,
+        285,
+        462,
+        522
+      ],
+      "ocr_text": [
+        "MOTHER{",
+        "DiRY",
+        "Jbned",
+        "Gi",
+        "Te"
+      ],
+      "linked_price": "\u20b954",
+      "area": 25596,
+      "area_source": "bbox"
+    },
+    {
+      "final_label": "Mother Dairy",
+      "bbox": [
+        462,
+        285,
+        571,
+        522
+      ],
+      "ocr_text": [
+        "MOTHER",
+        "DAIRY",
+        "Tened",
+        "Guar",
+        "Hele",
+        "Cu"
+      ],
+      "linked_price": "\u20b954",
+      "area": 25833,
+      "area_source": "bbox"
+    },
+    {
+      "final_label": "Amul",
+      "bbox": [
+        573,
+        286,
+        670,
+        525
+      ],
+      "ocr_text": [
+        "Amul",
+        "SHAKTI",
+        "Fnetneaes",
+        "HDTe"
+      ],
+      "linked_price": "\u20b930",
+      "area": 23183,
+      "area_source": "bbox"
+    },
+    {
+      "final_label": "Amul",
+      "bbox": [
+        671,
+        286,
+        764,
+        525
+      ],
+      "ocr_text": [
+        "Amul",
+        "SHAKTI",
+        "TcAana",
+        "Ann"
+      ],
+      "linked_price": "\u20b930",
+      "area": 22227,
+      "area_source": "bbox"
+    },
+    {
+      "final_label": "Amul",
+      "bbox": [
+        763,
+        286,
+        858,
+        524
+      ],
+      "ocr_text": [
+        "Amul",
+        "SHAKTI",
+        "Jaaete",
+        "Eo E"
+      ],
+      "linked_price": "\u20b930",
+      "area": 22610,
+      "area_source": "bbox"
+    },
+    {
+      "final_label": "Amul",
+      "bbox": [
+        856,
+        286,
+        954,
+        523
+      ],
+      "ocr_text": [
+        "Amul",
+        "GOLD"
+      ],
+      "linked_price": "\u20b930",
+      "area": 23226,
+      "area_source": "bbox"
+    },
+    {
+      "final_label": "Amul",
+      "bbox": [
+        952,
+        286,
+        1053,
+        524
+      ],
+      "ocr_text": [
+        "Amul",
+        "GOLD"
+      ],
+      "linked_price": "\u20b930",
+      "area": 24038,
+      "area_source": "bbox"
+    },
+    {
+      "final_label": "Amul",
+      "bbox": [
+        1051,
+        286,
+        1151,
+        523
+      ],
+      "ocr_text": [
+        "Amul",
+        "GOLD"
+      ],
+      "linked_price": "\u20b930",
+      "area": 23700,
+      "area_source": "bbox"
+    },
+    {
+      "final_label": "Amul",
+      "bbox": [
+        21,
+        289,
+        134,
+        521
+      ],
+      "ocr_text": [
+        "Amul",
+        "inazo"
+      ],
+      "linked_price": "\u20b930",
+      "area": 26216,
+      "area_source": "bbox"
+    },
+    {
+      "final_label": "Epigamia",
+      "bbox": [
+        1230,
+        292,
+        1303,
+        522
+      ],
+      "ocr_text": [
+        "Epigamia",
+        "82",
+        "GkanE",
+        "05ec?"
+      ],
+      "linked_price": "\u20b945",
+      "area": 16790,
+      "area_source": "bbox"
+    },
+    {
+      "final_label": "Amul",
+      "bbox": [
+        132,
+        294,
+        244,
+        522
+      ],
+      "ocr_text": [
+        "Amul",
+        "Taaza"
+      ],
+      "linked_price": "\u20b930",
+      "area": 25536,
+      "area_source": "bbox"
+    },
+    {
+      "final_label": "Epigamia",
+      "bbox": [
+        1151,
+        294,
+        1230,
+        524
+      ],
+      "ocr_text": [
+        "Epigamia",
+        "Ioccals",
+        "[alhre",
+        "857"
+      ],
+      "linked_price": "\u20b945",
+      "area": 18170,
+      "area_source": "bbox"
+    },
+    {
+      "final_label": "Other",
+      "bbox": [
+        244,
+        303,
+        355,
+        522
+      ],
+      "ocr_text": [
+        "mu",
+        "Taaze"
+      ],
+      "linked_price": "\u20b954",
+      "area": 24309,
+      "area_source": "bbox"
+    },
+    {
+      "final_label": "Epigamia",
+      "bbox": [
+        1303,
+        304,
+        1381,
+        522
+      ],
+      "ocr_text": [
+        "Epigamia",
+        "Roo4EC",
+        "dhare"
+      ],
+      "linked_price": "\u20b945",
+      "area": 17004,
+      "area_source": "bbox"
+    },
+    {
+      "final_label": "Amul",
+      "bbox": [
+        21,
+        581,
+        112,
+        761
+      ],
+      "ocr_text": [
+        "Amul `",
+        "KQoL",
+        "HEaaO"
+      ],
+      "linked_price": "\u20b930",
+      "area": 16380,
+      "area_source": "bbox"
+    },
+    {
+      "final_label": "Amul",
+      "bbox": [
+        114,
+        581,
+        203,
+        764
+      ],
+      "ocr_text": [
+        "Amul",
+        "KooL",
+        "Mcnn"
+      ],
+      "linked_price": "\u20b930",
+      "area": 16287,
+      "area_source": "bbox"
+    },
+    {
+      "final_label": "Amul",
+      "bbox": [
+        208,
+        582,
+        299,
+        761
+      ],
+      "ocr_text": [
+        "Amul",
+        "KooL",
+        "'Diocrnte"
+      ],
+      "linked_price": "\u20b930",
+      "area": 16289,
+      "area_source": "bbox"
+    },
+    {
+      "final_label": "Amul",
+      "bbox": [
+        303,
+        583,
+        389,
+        761
+      ],
+      "ocr_text": [
+        "KQoL",
+        "ncdt",
+        "Amule"
+      ],
+      "linked_price": "\u20b930",
+      "area": 15308,
+      "area_source": "bbox"
+    },
+    {
+      "final_label": "Other",
+      "bbox": [
+        398,
+        583,
+        490,
+        760
+      ],
+      "ocr_text": [
+        "0",
+        "1"
+      ],
+      "linked_price": "\u20b940",
+      "area": 16284,
+      "area_source": "bbox"
+    },
+    {
+      "final_label": "Other",
+      "bbox": [
+        499,
+        583,
+        589,
+        761
+      ],
+      "ocr_text": [
+        "6",
+        "0"
+      ],
+      "linked_price": "\u20b940",
+      "area": 16020,
+      "area_source": "bbox"
+    },
+    {
+      "final_label": "Amul",
+      "bbox": [
+        709,
+        583,
+        803,
+        764
+      ],
+      "ocr_text": [
+        "Amul",
+        "ROYALE"
+      ],
+      "linked_price": "\u20b930",
+      "area": 17014,
+      "area_source": "bbox"
+    },
+    {
+      "final_label": "Amul",
+      "bbox": [
+        803,
+        583,
+        898,
+        763
+      ],
+      "ocr_text": [
+        "Amul",
+        "ROYALE"
+      ],
+      "linked_price": "\u20b930",
+      "area": 17100,
+      "area_source": "bbox"
+    },
+    {
+      "final_label": "Other",
+      "bbox": [
+        601,
+        584,
+        691,
+        761
+      ],
+      "ocr_text": [
+        "0",
+        "6",
+        "0"
+      ],
+      "linked_price": "\u20b940",
+      "area": 15930,
+      "area_source": "bbox"
+    },
+    {
+      "final_label": "Amul",
+      "bbox": [
+        897,
+        584,
+        990,
+        764
+      ],
+      "ocr_text": [
+        "Amul",
+        "ROYALE"
+      ],
+      "linked_price": "\u20b930",
+      "area": 16740,
+      "area_source": "bbox"
+    },
+    {
+      "final_label": "Amul",
+      "bbox": [
+        1108,
+        584,
+        1203,
+        761
+      ],
+      "ocr_text": [
+        "Amul",
+        "PRO",
+        "repouunze"
+      ],
+      "linked_price": "\u20b930",
+      "area": 16815,
+      "area_source": "bbox"
+    },
+    {
+      "final_label": "Amul",
+      "bbox": [
+        1295,
+        584,
+        1388,
+        763
+      ],
+      "ocr_text": [
+        "Amul",
+        "PRO",
+        "D CWEA( ["
+      ],
+      "linked_price": "\u20b930",
+      "area": 16647,
+      "area_source": "bbox"
+    },
+    {
+      "final_label": "Amul",
+      "bbox": [
+        990,
+        585,
+        1086,
+        763
+      ],
+      "ocr_text": [
+        "Amul",
+        "ROYALE"
+      ],
+      "linked_price": "\u20b930",
+      "area": 17088,
+      "area_source": "bbox"
+    },
+    {
+      "final_label": "Amul",
+      "bbox": [
+        1201,
+        585,
+        1296,
+        762
+      ],
+      "ocr_text": [
+        "Amul",
+        "PRO",
+        "chcliuIL",
+        "7\""
+      ],
+      "linked_price": "\u20b930",
+      "area": 16815,
+      "area_source": "bbox"
+    },
+    {
+      "final_label": "Amul",
+      "bbox": [
+        173,
+        821,
+        336,
+        920
+      ],
+      "ocr_text": [
+        "Amul",
+        "01L"
+      ],
+      "linked_price": "\u20b930",
+      "area": 16137,
+      "area_source": "bbox"
+    },
+    {
+      "final_label": "Amul",
+      "bbox": [
+        485,
+        823,
+        637,
+        923
+      ],
+      "ocr_text": [
+        "Amul",
+        "Lite",
+        "0"
+      ],
+      "linked_price": "\u20b930",
+      "area": 15200,
+      "area_source": "bbox"
+    },
+    {
+      "final_label": "Amul",
+      "bbox": [
+        332,
+        824,
+        482,
+        920
+      ],
+      "ocr_text": [
+        "Amul",
+        "Lite",
+        "Jee @=",
+        "E"
+      ],
+      "linked_price": "\u20b930",
+      "area": 14400,
+      "area_source": "bbox"
+    },
+    {
+      "final_label": "Amul",
+      "bbox": [
+        10,
+        825,
+        168,
+        920
+      ],
+      "ocr_text": [
+        "Amul",
+        "027"
+      ],
+      "linked_price": "\u20b930",
+      "area": 15010,
+      "area_source": "bbox"
+    },
+    {
+      "final_label": "Amul",
+      "bbox": [
+        639,
+        826,
+        797,
+        921
+      ],
+      "ocr_text": [
+        "Amul",
+        "CHCESE SPAEAB"
+      ],
+      "linked_price": "\u20b930",
+      "area": 15010,
+      "area_source": "bbox"
+    },
+    {
+      "final_label": "Amul",
+      "bbox": [
+        954,
+        828,
+        1153,
+        923
+      ],
+      "ocr_text": [
+        "Amul CIEEErS",
+        "GattcL GIERRS"
+      ],
+      "linked_price": "\u20b930",
+      "area": 18905,
+      "area_source": "bbox"
+    },
+    {
+      "final_label": "Milky Mist",
+      "bbox": [
+        1154,
+        833,
+        1272,
+        924
+      ],
+      "ocr_text": [
+        "Milkynlist",
+        "BUTTER"
+      ],
+      "linked_price": "\u20b958",
+      "area": 10738,
+      "area_source": "bbox"
+    },
+    {
+      "final_label": "Amul",
+      "bbox": [
+        799,
+        836,
+        941,
+        922
+      ],
+      "ocr_text": [
+        "Atnul",
+        "ChEESE SPREAB"
+      ],
+      "linked_price": "\u20b930",
+      "area": 12212,
+      "area_source": "bbox"
+    },
+    {
+      "final_label": "Milky Mist",
+      "bbox": [
+        494,
+        977,
+        700,
+        1077
+      ],
+      "ocr_text": [
+        "MOZZARELLA",
+        "cheese",
+        "MilkyMist"
+      ],
+      "linked_price": "\u20b958",
+      "area": 20600,
+      "area_source": "bbox"
+    },
+    {
+      "final_label": "Milky Mist",
+      "bbox": [
+        714,
+        978,
+        900,
+        1077
+      ],
+      "ocr_text": [
+        "PizzA",
+        "cheese",
+        "MilkyMist"
+      ],
+      "linked_price": "\u20b958",
+      "area": 18414,
+      "area_source": "bbox"
+    },
+    {
+      "final_label": "Other",
+      "bbox": [
+        916,
+        978,
+        1122,
+        1077
+      ],
+      "ocr_text": [
+        "GO",
+        "Cheese",
+        "94ie5"
+      ],
+      "linked_price": "\u20b985",
+      "area": 20394,
+      "area_source": "bbox"
+    },
+    {
+      "final_label": "Other",
+      "bbox": [
+        290,
+        980,
+        481,
+        1076
+      ],
+      "ocr_text": [
+        "Encnut",
+        "GetTrmc",
+        "CHEESE",
+        "Slices"
+      ],
+      "linked_price": "\u20b960",
+      "area": 18336,
+      "area_source": "bbox"
+    },
+    {
+      "final_label": "Other",
+      "bbox": [
+        1131,
+        980,
+        1390,
+        1077
+      ],
+      "ocr_text": [
+        "ancl",
+        "PIZZA",
+        "CHEESE",
+        "Etaditaa"
+      ],
+      "linked_price": "\u20b9130",
+      "area": 25123,
+      "area_source": "bbox"
+    },
+    {
+      "final_label": "Amul",
+      "bbox": [
+        145,
+        981,
+        276,
+        1076
+      ],
+      "ocr_text": [
+        "Amul",
+        "CHEESE"
+      ],
+      "linked_price": "\u20b930",
+      "area": 12445,
+      "area_source": "bbox"
+    },
+    {
+      "final_label": "Amul",
+      "bbox": [
+        24,
+        982,
+        145,
+        1076
+      ],
+      "ocr_text": [
+        "Amul",
+        "CHEESE"
+      ],
+      "linked_price": "\u20b930",
+      "area": 11374,
+      "area_source": "bbox"
+    }
+  ]
+}

@@ -1,0 +1,677 @@
+{
+  "image_name": "img_2.jpg",
+  "total_products": 35,
+  "brands": {
+    "Bingo": 3,
+    "Cheetos": 2,
+    "Dark Fantasy": 1,
+    "Doritos": 3,
+    "Good Day": 3,
+    "Hide & Seek": 1,
+    "Kurkure": 3,
+    "Lay's": 4,
+    "Malkist": 2,
+    "Marie Gold": 1,
+    "Oreo": 2,
+    "Parle-G": 2,
+    "Pringles": 3,
+    "Tiger Krunch": 2,
+    "Uncle Chips": 3
+  },
+  "shelf_space_percent": {
+    "Bingo": 8.8,
+    "Cheetos": 6.9,
+    "Dark Fantasy": 2.8,
+    "Doritos": 10.2,
+    "Good Day": 6.7,
+    "Hide & Seek": 2.9,
+    "Kurkure": 9.4,
+    "Lay's": 12.7,
+    "Malkist": 5.0,
+    "Marie Gold": 3.2,
+    "Oreo": 5.6,
+    "Parle-G": 4.4,
+    "Pringles": 5.8,
+    "Tiger Krunch": 5.4,
+    "Uncle Chips": 10.3
+  },
+  "ocr_labels": [
+    "\u20b920",
+    "\u20b928",
+    "\u20b9529",
+    "\u20b999",
+    "\u20b911",
+    "\u20b910",
+    "\u20b930"
+  ],
+  "detections": [
+    {
+      "final_label": "Lay's",
+      "bbox": [
+        441,
+        16,
+        597,
+        242
+      ],
+      "ocr_text": [
+        "MORE",
+        "n5k",
+        "(lays)",
+        "Spanish",
+        "Tomoto Tango",
+        "CHIPs \""
+      ],
+      "linked_price": "\u20b920",
+      "area": 35256,
+      "area_source": "bbox"
+    },
+    {
+      "final_label": "Lay's",
+      "bbox": [
+        3,
+        18,
+        145,
+        242
+      ],
+      "ocr_text": [
+        "MorE",
+        "03*",
+        "({ays)",
+        "Classic",
+        "CHIPS\""
+      ],
+      "linked_price": "\u20b920",
+      "area": 31808,
+      "area_source": "bbox"
+    },
+    {
+      "final_label": "Lay's",
+      "bbox": [
+        147,
+        19,
+        287,
+        238
+      ],
+      "ocr_text": [
+        "MORE",
+        "([ays)",
+        "Indlo's Mogic",
+        "osolm",
+        "CHIPS'",
+        "9596 ,"
+      ],
+      "linked_price": "\u20b920",
+      "area": 30660,
+      "area_source": "bbox"
+    },
+    {
+      "final_label": "Cheetos",
+      "bbox": [
+        1260,
+        19,
+        1429,
+        242
+      ],
+      "ocr_text": [
+        "edlapclo",
+        "((Geetos",
+        "@otdtz"
+      ],
+      "linked_price": "\u20b928",
+      "area": 37687,
+      "area_source": "bbox"
+    },
+    {
+      "final_label": "Lay's",
+      "bbox": [
+        296,
+        20,
+        444,
+        242
+      ],
+      "ocr_text": [
+        "MorE",
+        "(lIays)",
+        "Chlle Llmon",
+        "chIPS\"",
+        "12596"
+      ],
+      "linked_price": "\u20b920",
+      "area": 32856,
+      "area_source": "bbox"
+    },
+    {
+      "final_label": "Doritos",
+      "bbox": [
+        764,
+        28,
+        931,
+        243
+      ],
+      "ocr_text": [
+        "Doritos",
+        "cooL",
+        "RANCH",
+        "@id"
+      ],
+      "linked_price": "\u20b920",
+      "area": 35905,
+      "area_source": "bbox"
+    },
+    {
+      "final_label": "Doritos",
+      "bbox": [
+        603,
+        34,
+        769,
+        243
+      ],
+      "ocr_text": [
+        "FbJ",
+        "Doritss",
+        "Nacho",
+        "chcise",
+        "CcW"
+      ],
+      "linked_price": "\u20b920",
+      "area": 34694,
+      "area_source": "bbox"
+    },
+    {
+      "final_label": "Doritos",
+      "bbox": [
+        929,
+        35,
+        1093,
+        242
+      ],
+      "ocr_text": [
+        "Hui",
+        "Doritzs",
+        "SHI",
+        "ICIO"
+      ],
+      "linked_price": "\u20b920",
+      "area": 33948,
+      "area_source": "bbox"
+    },
+    {
+      "final_label": "Cheetos",
+      "bbox": [
+        1100,
+        40,
+        1264,
+        243
+      ],
+      "ocr_text": [
+        "(Geetos"
+      ],
+      "linked_price": "\u20b928",
+      "area": 33292,
+      "area_source": "bbox"
+    },
+    {
+      "final_label": "Pringles",
+      "bbox": [
+        1239,
+        318,
+        1325,
+        547
+      ],
+      "ocr_text": [
+        "PrIcles,",
+        "SOUR OLEAM",
+        "tommok"
+      ],
+      "linked_price": "\u20b920",
+      "area": 19694,
+      "area_source": "bbox"
+    },
+    {
+      "final_label": "Pringles",
+      "bbox": [
+        1323,
+        318,
+        1416,
+        545
+      ],
+      "ocr_text": [
+        "PRINGLES",
+        "TEXAScQBA"
+      ],
+      "linked_price": "\u20b920",
+      "area": 21111,
+      "area_source": "bbox"
+    },
+    {
+      "final_label": "Pringles",
+      "bbox": [
+        1156,
+        321,
+        1238,
+        548
+      ],
+      "ocr_text": [
+        "PRINGLES",
+        "Original"
+      ],
+      "linked_price": "\u20b920",
+      "area": 18614,
+      "area_source": "bbox"
+    },
+    {
+      "final_label": "Uncle Chips",
+      "bbox": [
+        451,
+        326,
+        616,
+        548
+      ],
+      "ocr_text": [
+        "{Udle",
+        "ChiPPS",
+        "Plain Salted",
+        "35% EXTRA"
+      ],
+      "linked_price": "\u20b920",
+      "area": 36630,
+      "area_source": "bbox"
+    },
+    {
+      "final_label": "Kurkure",
+      "bbox": [
+        12,
+        327,
+        158,
+        545
+      ],
+      "ocr_text": [
+        "Kurkure",
+        "20% EXTRA"
+      ],
+      "linked_price": "\u20b920",
+      "area": 31828,
+      "area_source": "bbox"
+    },
+    {
+      "final_label": "Uncle Chips",
+      "bbox": [
+        616,
+        327,
+        768,
+        549
+      ],
+      "ocr_text": [
+        "(Undlle",
+        "ChiPPs",
+        "Spicy Tread",
+        "35% EXTRA",
+        "Mpalnit  Mtmtee"
+      ],
+      "linked_price": "\u20b920",
+      "area": 33744,
+      "area_source": "bbox"
+    },
+    {
+      "final_label": "Bingo",
+      "bbox": [
+        768,
+        328,
+        914,
+        549
+      ],
+      "ocr_text": [
+        "BINGol =",
+        "Original",
+        "Style",
+        "ao% EXTRA"
+      ],
+      "linked_price": "\u20b920",
+      "area": 32266,
+      "area_source": "bbox"
+    },
+    {
+      "final_label": "Kurkure",
+      "bbox": [
+        155,
+        329,
+        300,
+        546
+      ],
+      "ocr_text": [
+        "Krkure",
+        "20% EXTRA"
+      ],
+      "linked_price": "\u20b920",
+      "area": 31465,
+      "area_source": "bbox"
+    },
+    {
+      "final_label": "Kurkure",
+      "bbox": [
+        298,
+        329,
+        452,
+        546
+      ],
+      "ocr_text": [
+        "Kurkure",
+        "20% EXTRA"
+      ],
+      "linked_price": "\u20b910",
+      "area": 33418,
+      "area_source": "bbox"
+    },
+    {
+      "final_label": "Bingo",
+      "bbox": [
+        909,
+        331,
+        1034,
+        550
+      ],
+      "ocr_text": [
+        "Oniom",
+        "40% EXTRA",
+        "BINGo}",
+        "Creamt"
+      ],
+      "linked_price": "\u20b920",
+      "area": 27375,
+      "area_source": "bbox"
+    },
+    {
+      "final_label": "Bingo",
+      "bbox": [
+        1026,
+        331,
+        1165,
+        550
+      ],
+      "ocr_text": [
+        "@BINGo?",
+        "MDAdS |",
+        "Masti",
+        "Achanri",
+        "TE"
+      ],
+      "linked_price": "\u20b920",
+      "area": 30441,
+      "area_source": "bbox"
+    },
+    {
+      "final_label": "Good Day",
+      "bbox": [
+        482,
+        619,
+        622,
+        792
+      ],
+      "ocr_text": [
+        "DiaVaia",
+        "Day;",
+        "Canhcw",
+        "Onntc",
+        "Good"
+      ],
+      "linked_price": "\u20b910",
+      "area": 24220,
+      "area_source": "bbox"
+    },
+    {
+      "final_label": "Good Day",
+      "bbox": [
+        619,
+        622,
+        748,
+        790
+      ],
+      "ocr_text": [
+        "[phuton",
+        "auine?",
+        "Ceme",
+        "Good",
+        "Day;"
+      ],
+      "linked_price": "\u20b910",
+      "area": 21672,
+      "area_source": "bbox"
+    },
+    {
+      "final_label": "Good Day",
+      "bbox": [
+        744,
+        624,
+        882,
+        793
+      ],
+      "ocr_text": [
+        "DIA D",
+        "ausomo",
+        "Cue",
+        "Good",
+        "Day;"
+      ],
+      "linked_price": "\u20b910",
+      "area": 23322,
+      "area_source": "bbox"
+    },
+    {
+      "final_label": "Marie Gold",
+      "bbox": [
+        878,
+        626,
+        1074,
+        793
+      ],
+      "ocr_text": [
+        "Doinutred",
+        "marie",
+        "GOLD",
+        "O(rmodicu"
+      ],
+      "linked_price": "\u20b920",
+      "area": 32732,
+      "area_source": "bbox"
+    },
+    {
+      "final_label": "Parle-G",
+      "bbox": [
+        186,
+        627,
+        356,
+        786
+      ],
+      "ocr_text": [
+        "Ecic",
+        "106'",
+        "anta",
+        "Parle G"
+      ],
+      "linked_price": "\u20b911",
+      "area": 27030,
+      "area_source": "bbox"
+    },
+    {
+      "final_label": "Parle-G",
+      "bbox": [
+        351,
+        627,
+        485,
+        763
+      ],
+      "ocr_text": [
+        "700",
+        "eunte",
+        "Parle-G"
+      ],
+      "linked_price": "\u20b911",
+      "area": 18224,
+      "area_source": "bbox"
+    },
+    {
+      "final_label": "Oreo",
+      "bbox": [
+        1078,
+        628,
+        1255,
+        793
+      ],
+      "ocr_text": [
+        "Orlotrial",
+        "OREO"
+      ],
+      "linked_price": "\u20b920",
+      "area": 29205,
+      "area_source": "bbox"
+    },
+    {
+      "final_label": "Oreo",
+      "bbox": [
+        1252,
+        629,
+        1421,
+        795
+      ],
+      "ocr_text": [
+        "Ctorle",
+        "Choto",
+        "OREo",
+        "Crdto",
+        "choco"
+      ],
+      "linked_price": "\u20b920",
+      "area": 28054,
+      "area_source": "bbox"
+    },
+    {
+      "final_label": "Tiger Krunch",
+      "bbox": [
+        2,
+        870,
+        208,
+        1001
+      ],
+      "ocr_text": [
+        "Cunlmg",
+        "10%",
+        "EXTRA",
+        "Fwd",
+        "TGER",
+        "KRUNCH"
+      ],
+      "linked_price": "\u20b910",
+      "area": 26986,
+      "area_source": "bbox"
+    },
+    {
+      "final_label": "Hide & Seek",
+      "bbox": [
+        404,
+        870,
+        611,
+        1013
+      ],
+      "ocr_text": [
+        "Pantt",
+        "HIDE &SEEK\"",
+        "FABI",
+        "Chocolate"
+      ],
+      "linked_price": "\u20b920",
+      "area": 29601,
+      "area_source": "bbox"
+    },
+    {
+      "final_label": "Tiger Krunch",
+      "bbox": [
+        192,
+        872,
+        399,
+        1011
+      ],
+      "ocr_text": [
+        "Knatld",
+        "10%",
+        "EXTRA",
+        "TigER",
+        "KRUNCK"
+      ],
+      "linked_price": "\u20b910",
+      "area": 28773,
+      "area_source": "bbox"
+    },
+    {
+      "final_label": "Uncle Chips",
+      "bbox": [
+        621,
+        872,
+        875,
+        1011
+      ],
+      "ocr_text": [
+        "Paalt",
+        "HIDEGSEEK",
+        "MILANO",
+        "ColLECTiONs",
+        "CHOcOLate chip"
+      ],
+      "linked_price": "\u20b930",
+      "area": 35306,
+      "area_source": "bbox"
+    },
+    {
+      "final_label": "Malkist",
+      "bbox": [
+        1097,
+        872,
+        1269,
+        1018
+      ],
+      "ocr_text": [
+        "LDe",
+        "CO",
+        "ZiO)",
+        "chcexe",
+        "Malkist)"
+      ],
+      "linked_price": "\u20b910",
+      "area": 25112,
+      "area_source": "bbox"
+    },
+    {
+      "final_label": "Malkist",
+      "bbox": [
+        1260,
+        874,
+        1443,
+        1017
+      ],
+      "ocr_text": [
+        "F1o",
+        "Malkist)",
+        "Masola"
+      ],
+      "linked_price": "\u20b910",
+      "area": 26169,
+      "area_source": "bbox"
+    },
+    {
+      "final_label": "Dark Fantasy",
+      "bbox": [
+        874,
+        879,
+        1096,
+        1009
+      ],
+      "ocr_text": [
+        "ZDark",
+        "Fantasy,",
+        "Choco Fills"
+      ],
+      "linked_price": "\u20b930",
+      "area": 28860,
+      "area_source": "bbox"
+    }
+  ]
+}

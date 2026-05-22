@@ -1,0 +1,1267 @@
+{
+  "image_name": "img_1.jpg",
+  "total_products": 77,
+  "brands": {
+    "Amul": 3,
+    "Coca-Cola": 6,
+    "Dark Fantasy": 3,
+    "Fanta": 1,
+    "Gatorade": 3,
+    "Limca": 3,
+    "Lipton": 4,
+    "Minute Maid": 4,
+    "Mirinda": 4,
+    "Nescafe": 3,
+    "Nestea": 4,
+    "Other": 15,
+    "Paper Boat": 1,
+    "Pepsi": 4,
+    "Real": 4,
+    "Red Bull": 3,
+    "Sprite": 3,
+    "Thums Up": 4,
+    "Tropicana": 5
+  },
+  "shelf_space_percent": {
+    "Amul": 3.4,
+    "Coca-Cola": 7.8,
+    "Dark Fantasy": 4.3,
+    "Fanta": 1.4,
+    "Gatorade": 4.2,
+    "Limca": 4.0,
+    "Lipton": 3.9,
+    "Minute Maid": 8.4,
+    "Mirinda": 4.6,
+    "Nescafe": 3.4,
+    "Nestea": 4.4,
+    "Other": 18.4,
+    "Paper Boat": 1.3,
+    "Pepsi": 4.2,
+    "Real": 6.9,
+    "Red Bull": 2.8,
+    "Sprite": 4.1,
+    "Thums Up": 4.9,
+    "Tropicana": 7.6
+  },
+  "ocr_labels": [
+    "\u20b9125",
+    "\u20b9105",
+    "\u20b999",
+    "\u20b950",
+    "\u20b955",
+    "\u20b960",
+    "\u20b9110",
+    "\u20b940",
+    "\u20b935",
+    "\u20b975",
+    "\u20b930"
+  ],
+  "detections": [
+    {
+      "final_label": "Minute Maid",
+      "bbox": [
+        1322,
+        13,
+        1423,
+        240
+      ],
+      "ocr_text": [
+        "Minute",
+        "Maid",
+        "FaueR"
+      ],
+      "linked_price": "\u20b950",
+      "area": 22927,
+      "area_source": "bbox"
+    },
+    {
+      "final_label": "Minute Maid",
+      "bbox": [
+        1218,
+        14,
+        1322,
+        241
+      ],
+      "ocr_text": [
+        "Minute",
+        "Maid",
+        "DHaDY"
+      ],
+      "linked_price": "\u20b9105",
+      "area": 23608,
+      "area_source": "bbox"
+    },
+    {
+      "final_label": "Minute Maid",
+      "bbox": [
+        1116,
+        16,
+        1219,
+        243
+      ],
+      "ocr_text": [
+        "Minute",
+        "Maid",
+        "APPLE"
+      ],
+      "linked_price": "\u20b9105",
+      "area": 23381,
+      "area_source": "bbox"
+    },
+    {
+      "final_label": "Minute Maid",
+      "bbox": [
+        1014,
+        17,
+        1117,
+        241
+      ],
+      "ocr_text": [
+        "Minute",
+        "Maid",
+        "PULPY",
+        "ORANGE"
+      ],
+      "linked_price": "\u20b9105",
+      "area": 23072,
+      "area_source": "bbox"
+    },
+    {
+      "final_label": "Real",
+      "bbox": [
+        909,
+        27,
+        1001,
+        241
+      ],
+      "ocr_text": [
+        "Rea)",
+        "Pomegramete =",
+        "REL"
+      ],
+      "linked_price": "\u20b950",
+      "area": 19688,
+      "area_source": "bbox"
+    },
+    {
+      "final_label": "Real",
+      "bbox": [
+        818,
+        28,
+        908,
+        240
+      ],
+      "ocr_text": [
+        "Real",
+        "Guava",
+        "BDD"
+      ],
+      "linked_price": "\u20b950",
+      "area": 19080,
+      "area_source": "bbox"
+    },
+    {
+      "final_label": "Real",
+      "bbox": [
+        543,
+        29,
+        633,
+        241
+      ],
+      "ocr_text": [
+        "Redq",
+        "Rlo",
+        "Orange"
+      ],
+      "linked_price": "\u20b999",
+      "area": 19080,
+      "area_source": "bbox"
+    },
+    {
+      "final_label": "Real",
+      "bbox": [
+        636,
+        29,
+        724,
+        240
+      ],
+      "ocr_text": [
+        "Mixed",
+        "Fruct",
+        "Rea)",
+        "RaL"
+      ],
+      "linked_price": "\u20b999",
+      "area": 18568,
+      "area_source": "bbox"
+    },
+    {
+      "final_label": "Other",
+      "bbox": [
+        728,
+        31,
+        815,
+        241
+      ],
+      "ocr_text": [
+        "(ea)",
+        "Mixed",
+        "Frwt",
+        "REE\""
+      ],
+      "linked_price": "\u20b999",
+      "area": 18270,
+      "area_source": "bbox"
+    },
+    {
+      "final_label": "Tropicana",
+      "bbox": [
+        14,
+        37,
+        98,
+        234
+      ],
+      "ocr_text": [
+        "(TTropicana",
+        "ORA8GF",
+        "amTman"
+      ],
+      "linked_price": "\u20b9125",
+      "area": 16548,
+      "area_source": "bbox"
+    },
+    {
+      "final_label": "Tropicana",
+      "bbox": [
+        443,
+        39,
+        534,
+        241
+      ],
+      "ocr_text": [
+        "(Tropicana",
+        "POMEG RANATE",
+        "dELCHT",
+        "Io cdnnuImt"
+      ],
+      "linked_price": "\u20b999",
+      "area": 18382,
+      "area_source": "bbox"
+    },
+    {
+      "final_label": "Tropicana",
+      "bbox": [
+        184,
+        40,
+        269,
+        229
+      ],
+      "ocr_text": [
+        "(Tropicana",
+        "dRrf",
+        "Tn"
+      ],
+      "linked_price": "\u20b9125",
+      "area": 16065,
+      "area_source": "bbox"
+    },
+    {
+      "final_label": "Tropicana",
+      "bbox": [
+        357,
+        40,
+        442,
+        237
+      ],
+      "ocr_text": [
+        "(Tropicana",
+        "SuA",
+        "COaratuaa"
+      ],
+      "linked_price": "\u20b950",
+      "area": 16745,
+      "area_source": "bbox"
+    },
+    {
+      "final_label": "Tropicana",
+      "bbox": [
+        270,
+        43,
+        357,
+        230
+      ],
+      "ocr_text": [
+        "Tropicana",
+        "PINEAPPLE",
+        "delicht",
+        "Maettnndmalmlt"
+      ],
+      "linked_price": "\u20b9125",
+      "area": 16269,
+      "area_source": "bbox"
+    },
+    {
+      "final_label": "Coca-Cola",
+      "bbox": [
+        227,
+        303,
+        295,
+        525
+      ],
+      "ocr_text": [
+        "@o Gdla"
+      ],
+      "linked_price": "\u20b950",
+      "area": 15096,
+      "area_source": "bbox"
+    },
+    {
+      "final_label": "Other",
+      "bbox": [
+        368,
+        303,
+        433,
+        526
+      ],
+      "ocr_text": [
+        "@ce Gda"
+      ],
+      "linked_price": "\u20b950",
+      "area": 14495,
+      "area_source": "bbox"
+    },
+    {
+      "final_label": "Coca-Cola",
+      "bbox": [
+        296,
+        304,
+        364,
+        526
+      ],
+      "ocr_text": [
+        "(ceGdla"
+      ],
+      "linked_price": "\u20b950",
+      "area": 15096,
+      "area_source": "bbox"
+    },
+    {
+      "final_label": "Coca-Cola",
+      "bbox": [
+        439,
+        304,
+        503,
+        525
+      ],
+      "ocr_text": [
+        "CceGdla"
+      ],
+      "linked_price": "\u20b955",
+      "area": 14144,
+      "area_source": "bbox"
+    },
+    {
+      "final_label": "Coca-Cola",
+      "bbox": [
+        507,
+        305,
+        570,
+        525
+      ],
+      "ocr_text": [
+        "Coke"
+      ],
+      "linked_price": "\u20b955",
+      "area": 13860,
+      "area_source": "bbox"
+    },
+    {
+      "final_label": "Coca-Cola",
+      "bbox": [
+        639,
+        306,
+        707,
+        526
+      ],
+      "ocr_text": [
+        "Coke"
+      ],
+      "linked_price": "\u20b955",
+      "area": 14960,
+      "area_source": "bbox"
+    },
+    {
+      "final_label": "Coca-Cola",
+      "bbox": [
+        574,
+        307,
+        636,
+        525
+      ],
+      "ocr_text": [
+        "Coke"
+      ],
+      "linked_price": "\u20b955",
+      "area": 13516,
+      "area_source": "bbox"
+    },
+    {
+      "final_label": "Sprite",
+      "bbox": [
+        96,
+        308,
+        162,
+        527
+      ],
+      "ocr_text": [
+        "Sprite]"
+      ],
+      "linked_price": "\u20b950",
+      "area": 14454,
+      "area_source": "bbox"
+    },
+    {
+      "final_label": "Sprite",
+      "bbox": [
+        160,
+        308,
+        231,
+        526
+      ],
+      "ocr_text": [
+        "Spritel"
+      ],
+      "linked_price": "\u20b950",
+      "area": 15478,
+      "area_source": "bbox"
+    },
+    {
+      "final_label": "Other",
+      "bbox": [
+        720,
+        308,
+        794,
+        526
+      ],
+      "ocr_text": [
+        "Mpp"
+      ],
+      "linked_price": "\u20b950",
+      "area": 16132,
+      "area_source": "bbox"
+    },
+    {
+      "final_label": "Sprite",
+      "bbox": [
+        26,
+        309,
+        97,
+        526
+      ],
+      "ocr_text": [
+        "Sprite"
+      ],
+      "linked_price": "\u20b950",
+      "area": 15407,
+      "area_source": "bbox"
+    },
+    {
+      "final_label": "Other",
+      "bbox": [
+        796,
+        309,
+        866,
+        526
+      ],
+      "ocr_text": [
+        "Tur"
+      ],
+      "linked_price": "\u20b950",
+      "area": 15190,
+      "area_source": "bbox"
+    },
+    {
+      "final_label": "Thums Up",
+      "bbox": [
+        870,
+        309,
+        941,
+        526
+      ],
+      "ocr_text": [
+        "Tupe|"
+      ],
+      "linked_price": "\u20b950",
+      "area": 15407,
+      "area_source": "bbox"
+    },
+    {
+      "final_label": "Dark Fantasy",
+      "bbox": [
+        939,
+        309,
+        1013,
+        525
+      ],
+      "ocr_text": [
+        "FANTA"
+      ],
+      "linked_price": "\u20b950",
+      "area": 15984,
+      "area_source": "bbox"
+    },
+    {
+      "final_label": "Fanta",
+      "bbox": [
+        1011,
+        309,
+        1083,
+        525
+      ],
+      "ocr_text": [
+        "FANT |"
+      ],
+      "linked_price": "\u20b950",
+      "area": 15552,
+      "area_source": "bbox"
+    },
+    {
+      "final_label": "Dark Fantasy",
+      "bbox": [
+        1082,
+        309,
+        1154,
+        526
+      ],
+      "ocr_text": [
+        "FANTA |"
+      ],
+      "linked_price": "\u20b950",
+      "area": 15624,
+      "area_source": "bbox"
+    },
+    {
+      "final_label": "Dark Fantasy",
+      "bbox": [
+        1152,
+        309,
+        1224,
+        527
+      ],
+      "ocr_text": [
+        "FANTA E"
+      ],
+      "linked_price": "\u20b950",
+      "area": 15696,
+      "area_source": "bbox"
+    },
+    {
+      "final_label": "Limca",
+      "bbox": [
+        1357,
+        309,
+        1427,
+        527
+      ],
+      "ocr_text": [
+        "Limc"
+      ],
+      "linked_price": "\u20b950",
+      "area": 15260,
+      "area_source": "bbox"
+    },
+    {
+      "final_label": "Limca",
+      "bbox": [
+        1288,
+        310,
+        1357,
+        527
+      ],
+      "ocr_text": [
+        "Limc"
+      ],
+      "linked_price": "\u20b950",
+      "area": 14973,
+      "area_source": "bbox"
+    },
+    {
+      "final_label": "Limca",
+      "bbox": [
+        1222,
+        311,
+        1289,
+        527
+      ],
+      "ocr_text": [
+        "Limci"
+      ],
+      "linked_price": "\u20b950",
+      "area": 14472,
+      "area_source": "bbox"
+    },
+    {
+      "final_label": "Other",
+      "bbox": [
+        681,
+        586,
+        746,
+        791
+      ],
+      "ocr_text": [],
+      "linked_price": "\u20b950",
+      "area": 13325,
+      "area_source": "bbox"
+    },
+    {
+      "final_label": "Thums Up",
+      "bbox": [
+        742,
+        586,
+        808,
+        789
+      ],
+      "ocr_text": [
+        "up"
+      ],
+      "linked_price": "\u20b950",
+      "area": 13398,
+      "area_source": "bbox"
+    },
+    {
+      "final_label": "Other",
+      "bbox": [
+        491,
+        587,
+        558,
+        789
+      ],
+      "ocr_text": [],
+      "linked_price": "\u20b950",
+      "area": 13534,
+      "area_source": "bbox"
+    },
+    {
+      "final_label": "Other",
+      "bbox": [
+        621,
+        587,
+        684,
+        792
+      ],
+      "ocr_text": [],
+      "linked_price": "\u20b950",
+      "area": 12915,
+      "area_source": "bbox"
+    },
+    {
+      "final_label": "Thums Up",
+      "bbox": [
+        807,
+        587,
+        869,
+        790
+      ],
+      "ocr_text": [
+        "up"
+      ],
+      "linked_price": "\u20b950",
+      "area": 12586,
+      "area_source": "bbox"
+    },
+    {
+      "final_label": "Thums Up",
+      "bbox": [
+        871,
+        587,
+        936,
+        791
+      ],
+      "ocr_text": [
+        "Up"
+      ],
+      "linked_price": "\u20b950",
+      "area": 13260,
+      "area_source": "bbox"
+    },
+    {
+      "final_label": "Nestea",
+      "bbox": [
+        137,
+        588,
+        198,
+        787
+      ],
+      "ocr_text": [
+        "NESTEA"
+      ],
+      "linked_price": "\u20b960",
+      "area": 12139,
+      "area_source": "bbox"
+    },
+    {
+      "final_label": "Other",
+      "bbox": [
+        558,
+        588,
+        621,
+        790
+      ],
+      "ocr_text": [],
+      "linked_price": "\u20b950",
+      "area": 12726,
+      "area_source": "bbox"
+    },
+    {
+      "final_label": "Mirinda",
+      "bbox": [
+        1001,
+        588,
+        1065,
+        782
+      ],
+      "ocr_text": [
+        "GiRInda"
+      ],
+      "linked_price": "\u20b950",
+      "area": 12416,
+      "area_source": "bbox"
+    },
+    {
+      "final_label": "Mirinda",
+      "bbox": [
+        1127,
+        588,
+        1190,
+        785
+      ],
+      "ocr_text": [
+        "AiRINdi}"
+      ],
+      "linked_price": "\u20b950",
+      "area": 12411,
+      "area_source": "bbox"
+    },
+    {
+      "final_label": "Nestea",
+      "bbox": [
+        18,
+        589,
+        83,
+        788
+      ],
+      "ocr_text": [
+        "NESTEA"
+      ],
+      "linked_price": "\u20b960",
+      "area": 12935,
+      "area_source": "bbox"
+    },
+    {
+      "final_label": "Nestea",
+      "bbox": [
+        80,
+        589,
+        138,
+        787
+      ],
+      "ocr_text": [
+        "NESTEA"
+      ],
+      "linked_price": "\u20b960",
+      "area": 11484,
+      "area_source": "bbox"
+    },
+    {
+      "final_label": "Mirinda",
+      "bbox": [
+        937,
+        589,
+        1003,
+        792
+      ],
+      "ocr_text": [
+        "GiRINdd"
+      ],
+      "linked_price": "\u20b950",
+      "area": 13398,
+      "area_source": "bbox"
+    },
+    {
+      "final_label": "Pepsi",
+      "bbox": [
+        1188,
+        589,
+        1247,
+        791
+      ],
+      "ocr_text": [
+        "pepsi"
+      ],
+      "linked_price": "\u20b950",
+      "area": 11918,
+      "area_source": "bbox"
+    },
+    {
+      "final_label": "Mirinda",
+      "bbox": [
+        1064,
+        590,
+        1127,
+        791
+      ],
+      "ocr_text": [
+        "Girinda"
+      ],
+      "linked_price": "\u20b950",
+      "area": 12663,
+      "area_source": "bbox"
+    },
+    {
+      "final_label": "Pepsi",
+      "bbox": [
+        1252,
+        590,
+        1306,
+        789
+      ],
+      "ocr_text": [
+        "pepsi"
+      ],
+      "linked_price": "\u20b950",
+      "area": 10746,
+      "area_source": "bbox"
+    },
+    {
+      "final_label": "Pepsi",
+      "bbox": [
+        1370,
+        590,
+        1429,
+        789
+      ],
+      "ocr_text": [
+        "pepsi"
+      ],
+      "linked_price": "\u20b950",
+      "area": 11741,
+      "area_source": "bbox"
+    },
+    {
+      "final_label": "Nestea",
+      "bbox": [
+        198,
+        591,
+        259,
+        789
+      ],
+      "ocr_text": [
+        "NESTEA"
+      ],
+      "linked_price": "\u20b960",
+      "area": 12078,
+      "area_source": "bbox"
+    },
+    {
+      "final_label": "Pepsi",
+      "bbox": [
+        1309,
+        591,
+        1369,
+        789
+      ],
+      "ocr_text": [
+        "pepsi"
+      ],
+      "linked_price": "\u20b950",
+      "area": 11880,
+      "area_source": "bbox"
+    },
+    {
+      "final_label": "Lipton",
+      "bbox": [
+        261,
+        597,
+        315,
+        788
+      ],
+      "ocr_text": [
+        "Lipton",
+        "Lanon"
+      ],
+      "linked_price": "\u20b960",
+      "area": 10314,
+      "area_source": "bbox"
+    },
+    {
+      "final_label": "Lipton",
+      "bbox": [
+        438,
+        597,
+        493,
+        791
+      ],
+      "ocr_text": [
+        "Mpton",
+        "Parch"
+      ],
+      "linked_price": "\u20b960",
+      "area": 10670,
+      "area_source": "bbox"
+    },
+    {
+      "final_label": "Lipton",
+      "bbox": [
+        316,
+        598,
+        373,
+        788
+      ],
+      "ocr_text": [
+        "Upton",
+        "Lomun"
+      ],
+      "linked_price": "\u20b960",
+      "area": 10830,
+      "area_source": "bbox"
+    },
+    {
+      "final_label": "Lipton",
+      "bbox": [
+        375,
+        598,
+        434,
+        791
+      ],
+      "ocr_text": [
+        "Lpton]",
+        "Pench"
+      ],
+      "linked_price": "\u20b960",
+      "area": 11387,
+      "area_source": "bbox"
+    },
+    {
+      "final_label": "Gatorade",
+      "bbox": [
+        643,
+        840,
+        721,
+        1040
+      ],
+      "ocr_text": [
+        "OatORADE"
+      ],
+      "linked_price": "\u20b975",
+      "area": 15600,
+      "area_source": "bbox"
+    },
+    {
+      "final_label": "Gatorade",
+      "bbox": [
+        563,
+        841,
+        640,
+        1039
+      ],
+      "ocr_text": [
+        "catorAnE"
+      ],
+      "linked_price": "\u20b975",
+      "area": 15246,
+      "area_source": "bbox"
+    },
+    {
+      "final_label": "Gatorade",
+      "bbox": [
+        486,
+        843,
+        564,
+        1041
+      ],
+      "ocr_text": [
+        "GatorADE"
+      ],
+      "linked_price": "\u20b975",
+      "area": 15444,
+      "area_source": "bbox"
+    },
+    {
+      "final_label": "Other",
+      "bbox": [
+        719,
+        844,
+        796,
+        1040
+      ],
+      "ocr_text": [
+        "Gatopang",
+        "Tnnauan"
+      ],
+      "linked_price": "\u20b975",
+      "area": 15092,
+      "area_source": "bbox"
+    },
+    {
+      "final_label": "Other",
+      "bbox": [
+        343,
+        851,
+        413,
+        1039
+      ],
+      "ocr_text": [
+        "Boar",
+        "laladniita"
+      ],
+      "linked_price": "\u20b935",
+      "area": 13160,
+      "area_source": "bbox"
+    },
+    {
+      "final_label": "Paper Boat",
+      "bbox": [
+        411,
+        852,
+        485,
+        1040
+      ],
+      "ocr_text": [
+        "Paper",
+        "boat",
+        "bguyu"
+      ],
+      "linked_price": "\u20b935",
+      "area": 13912,
+      "area_source": "bbox"
+    },
+    {
+      "final_label": "Other",
+      "bbox": [
+        273,
+        854,
+        345,
+        1040
+      ],
+      "ocr_text": [
+        "Boar",
+        "mucunna"
+      ],
+      "linked_price": "\u20b935",
+      "area": 13392,
+      "area_source": "bbox"
+    },
+    {
+      "final_label": "Nescafe",
+      "bbox": [
+        992,
+        854,
+        1060,
+        1038
+      ],
+      "ocr_text": [
+        "NESCAFE",
+        "lenn"
+      ],
+      "linked_price": "\u20b9110",
+      "area": 12512,
+      "area_source": "bbox"
+    },
+    {
+      "final_label": "Nescafe",
+      "bbox": [
+        1061,
+        855,
+        1128,
+        1038
+      ],
+      "ocr_text": [
+        "NESCAFE",
+        "Clabic"
+      ],
+      "linked_price": "\u20b9110",
+      "area": 12261,
+      "area_source": "bbox"
+    },
+    {
+      "final_label": "Other",
+      "bbox": [
+        147,
+        856,
+        209,
+        1036
+      ],
+      "ocr_text": [
+        "B",
+        "Notura",
+        "Orange"
+      ],
+      "linked_price": "\u20b940",
+      "area": 11160,
+      "area_source": "bbox"
+    },
+    {
+      "final_label": "Nescafe",
+      "bbox": [
+        1131,
+        856,
+        1200,
+        1039
+      ],
+      "ocr_text": [
+        "NescaFE}",
+        "Ciastic"
+      ],
+      "linked_price": "\u20b9110",
+      "area": 12627,
+      "area_source": "bbox"
+    },
+    {
+      "final_label": "Other",
+      "bbox": [
+        207,
+        857,
+        274,
+        1034
+      ],
+      "ocr_text": [
+        "B",
+        "Frmegrerzle",
+        "Noturol"
+      ],
+      "linked_price": "\u20b940",
+      "area": 11859,
+      "area_source": "bbox"
+    },
+    {
+      "final_label": "Other",
+      "bbox": [
+        22,
+        858,
+        88,
+        1039
+      ],
+      "ocr_text": [
+        "B",
+        "Mixed Frult",
+        "Natural"
+      ],
+      "linked_price": "\u20b940",
+      "area": 11946,
+      "area_source": "bbox"
+    },
+    {
+      "final_label": "Other",
+      "bbox": [
+        88,
+        859,
+        149,
+        1037
+      ],
+      "ocr_text": [
+        "Orange",
+        "Natural"
+      ],
+      "linked_price": "\u20b940",
+      "area": 10858,
+      "area_source": "bbox"
+    },
+    {
+      "final_label": "Amul",
+      "bbox": [
+        1272,
+        864,
+        1344,
+        1040
+      ],
+      "ocr_text": [
+        "Amul",
+        "Auiu",
+        "KooL"
+      ],
+      "linked_price": "\u20b930",
+      "area": 12672,
+      "area_source": "bbox"
+    },
+    {
+      "final_label": "Amul",
+      "bbox": [
+        1344,
+        864,
+        1419,
+        1040
+      ],
+      "ocr_text": [
+        "Amul",
+        "KQOl",
+        "UILA#"
+      ],
+      "linked_price": "\u20b930",
+      "area": 13200,
+      "area_source": "bbox"
+    },
+    {
+      "final_label": "Amul",
+      "bbox": [
+        1203,
+        867,
+        1273,
+        1041
+      ],
+      "ocr_text": [
+        "Amul",
+        "Kool",
+        "ot"
+      ],
+      "linked_price": "\u20b940",
+      "area": 12180,
+      "area_source": "bbox"
+    },
+    {
+      "final_label": "Red Bull",
+      "bbox": [
+        802,
+        874,
+        868,
+        1039
+      ],
+      "ocr_text": [
+        "Red Bull"
+      ],
+      "linked_price": "\u20b9110",
+      "area": 10890,
+      "area_source": "bbox"
+    },
+    {
+      "final_label": "Red Bull",
+      "bbox": [
+        928,
+        874,
+        991,
+        1039
+      ],
+      "ocr_text": [
+        "RedBul"
+      ],
+      "linked_price": "\u20b9110",
+      "area": 10395,
+      "area_source": "bbox"
+    },
+    {
+      "final_label": "Red Bull",
+      "bbox": [
+        867,
+        875,
+        929,
+        1037
+      ],
+      "ocr_text": [
+        "RedBu",
+        "Ualec"
+      ],
+      "linked_price": "\u20b9110",
+      "area": 10044,
+      "area_source": "bbox"
+    }
+  ]
+}
